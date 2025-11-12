@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: Text-summarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/rishabh6900/rishabh6900-Text-summarizer
+Author: rishabh6900
+Author-email: prajapatirishabh071@gmail.com
+Project-URL: Bug Tracker, https://github.com/rishabh6900/rishabh6900-Text-summarizer/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary

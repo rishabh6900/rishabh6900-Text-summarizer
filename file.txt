@@ -1,1 +1,5 @@
-stop-1 : 17:10
+conda create -n ts python=3.10 -y
+
+conda activate ts
+
+pip install -r requirements.txt
